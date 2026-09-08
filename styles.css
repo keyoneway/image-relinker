@@ -1,0 +1,27 @@
+.image-relinker-results {
+  margin-top: 1rem;
+}
+
+.image-relinker-summary {
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+.image-relinker-row {
+  border-top: 1px solid var(--background-modifier-border);
+  padding: 0.45rem 0;
+}
+
+.image-relinker-status {
+  display: inline-block;
+  min-width: 4.5rem;
+  font-weight: 600;
+}
+
+.image-relinker-path {
+  color: var(--text-muted);
+  display: block;
+  font-size: 0.85em;
+  margin-top: 0.2rem;
+  overflow-wrap: anywhere;
+}
