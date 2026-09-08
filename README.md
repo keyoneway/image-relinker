@@ -1,24 +1,31 @@
 <div align="center">
+
 # Hi there 👋 I'm keyoneway
 No‑code builder empowered by AI.
 Explore possibilities, build practical tools, and create real value in the AI era.
+
 AI赋能的零代码创造者｜探索更多可能，打造实用工具，在AI时代创造真实价值
+
 <br/>
+
 [<img src="https://img.shields.io/badge/Xiaohongshu-%23FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"/>](https://www.xiaohongshu.com/user/profile/5b9fd545f7e8b92f54dae9d9)
 [<img src="https://img.shields.io/badge/Douyin-%23000000?style=for-the-badge&logo=tiktok&logoColor=white"/>](https://www.douyin.com/user/MS4wLjABAAAAOZgIpVr4F9IvTNFIXW_Z2Q61Z58RMMhvRCcMUn55ErMv9-DRPXQ2a86IY6hGE3Ld)
+
 <br/><br/>
 </div>
+
 ---
+
 ## 🛠 Featured Project
 - **image‑relinker**｜Obsidian断图链接修复小工具，一键批量修复笔记中失效的图片引用
 
 <div align="center">
 
-**[English](#image-relinker-english)**  **[中文说明](#中文说明)**
+**[English](#image-relinker)**  **[中文说明](#中文说明)**
 
 </div>
 
-<a id="image-relinker-english"></a>
+<a id="image-relinker"></a>
 # Image Relinker
 Repair broken image embeds in the active Obsidian note by matching their file names against a selected attachment folder.
 
@@ -44,7 +51,7 @@ npm test
 npm run check
 npm run build
 
-# 中文说明
+## 中文说明
 
 ### 适用场景
 
