@@ -115,7 +115,9 @@ class ImageRepairModal extends Modal {
       .addDropdown((dropdown) => {
         const folders = this.plugin.vaultFolders();
         if (this.folderPath && !folders.includes(this.folderPath)) folders.unshift(this.folderPath);
-        folders.forEach((path) => dropdown.addOption(path, path));
+        folders.forEach((path) => {
+          dropdown.addOption(path, path);
+        });
         dropdown.setValue(this.folderPath).onChange((value) => {
           this.folderPath = normalizePath(value);
           this.clearPreview();
