@@ -1,8 +1,8 @@
 <div align="center">
 
 **Hi there 👋 I'm keyoneway**
-No‑code builder empowered by AI.
-Explore possibilities, build practical tools, and create real value in the AI era.
+No‑code builder empowered by AI. Explore possibilities, build practical tools,
+and create real value in the AI era.
 
 AI赋能的零代码创造者｜探索更多可能，打造实用工具，在AI时代创造真实价值
 
